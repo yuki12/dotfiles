@@ -1,2 +1,2 @@
-export HISTCONTROL=erasedups:ignoreboth
+echo .bash_profile is read
 
