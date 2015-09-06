@@ -6,3 +6,8 @@ set smartindent
 
 " 表示
 set list
+
+syntax on
+filetype on
+filetype indent on
+filetype plugin on
