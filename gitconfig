@@ -1,0 +1,9 @@
+[user]
+	name = yuki12
+	email = yuki12@users.noreply.github.com
+[alias]
+	co = checkout
+	st = status
+	b = branch
+[core]
+	editor = vi
