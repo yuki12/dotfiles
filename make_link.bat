@@ -1,0 +1,1 @@
+mklink /h %APPDATA%\Code\User\settings.json vscode-settings.json
