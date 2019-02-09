@@ -1,3 +1,11 @@
 {
-    "editor.fontFamily": "'B612 Mono', Consolas, 'Courier New', monospace"
+    "workbench.colorTheme": "Default Light+",
+    "editor.wordWrap": "bounded",
+    "[plaintext]": {
+        "editor.wordWrap": "on"
+    },
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.renderWhitespace": "boundary",
+    "editor.fontLigatures": true,
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?　｀~！＠＃＄％＾＆＊（）－＝＋［｛］｝＼｜；：’‘’“”，．＜＞／？"
 }
